@@ -1,7 +1,7 @@
 # 《国王密令》汉化版发布 Ⓒ国王密令我们汉化组
 
 <div style=text-align:center>
-    <img src=screencasts/封面_0.bmp>
+    <img src=screencasts/logo_0.bmp>
 </div>
 
 ## 游戏简介
@@ -30,8 +30,8 @@ https://github.com/youxihh/pskf/releases
 <img width=300 height=250 src=screencasts/loading_1.png>
 </div>
 <div>
-<img width=300 src=screencasts/封面_0.bmp>
-<img width=300 src=screencasts/封面_1.png>
+<img width=300 src=screencasts/logo_0.bmp>
+<img width=300 src=screencasts/logo_1.png>
 </div>
 <div>
 <img width=300 height=250 src=screencasts/menu_0.png>
