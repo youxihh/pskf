@@ -1,12 +1,13 @@
 # 《国王密令》汉化版发布 Ⓒ国王密令我们汉化组
 
-<div style=text-align:center>
+<div align=center>
     <img src=screencasts/logo_0.bmp>
 </div>
 
 ## 游戏简介
 
 《国王密令 / King's Field》是一款 PS1 上制作精良的中世纪第一人称动作角色扮演游戏，由 From Software 开发，于 1994 年发售。游戏有丰富的剧情故事，并且包含多样的武器系统、魔法系统、道具系统
+
 该作是 From Software 公司的首款游戏，也被看作后续魂系列游戏的开山鼻祖
 
 ## 游戏补丁
@@ -21,23 +22,23 @@ https://github.com/youxihh/pskf/releases
 2. 对话、物品说明等尽量按照原版风格进行还原
 
 ## 游戏截图
-<div>
+<div align=center>
 <img width=300 src=screencasts/opening_0.gif>
 <img width=300 src=screencasts/opening_1.gif>
 </div>
-<div>
+<div align=center>
 <img width=300 height=250 src=screencasts/loading_0.png>
 <img width=300 height=250 src=screencasts/loading_1.png>
 </div>
-<div>
+<div align=center>
 <img width=300 src=screencasts/logo_0.bmp>
 <img width=300 src=screencasts/logo_1.png>
 </div>
-<div>
+<div align=center>
 <img width=300 height=250 src=screencasts/menu_0.png>
 <img width=300 height=250 src=screencasts/menu_1.png>
 </div>
-<div>
+<div align=center>
 <img width=300 height=250 src=screencasts/game_0.png>
 <img width=300 height=250 src=screencasts/game_1.png>
 </div>
@@ -66,26 +67,32 @@ https://github.com/youxihh/pskf/releases
 - 为了解析游戏中的图片、模型，并且能够方便批量处理，我们自己开发了一套完整的 PSX 图片、模型处理工具
 - ……
 
+
+
 世上无难事，只要肯登攀。对于汉化来说，也是这样
 
 - 感谢某人在漫漫长夜中为我们指明方向，点灯照亮前行的路。没有这些思路和指导，我们无法完成艰巨而繁杂的汉化任务
 - 感谢 nanrui、欧阳深蹲不断整理、优化汉化文档。让每个成员能够快速上手，这是整个汉化中最重要的工作
 - 感谢设计专家木木，细致入微地完善 CG 汉字的制作
 - 感谢 hush、世终、Pie 完成了 TMD 模型格式和现代模型格式的转换
-- 感谢书法专家小火车，重新绘制了游戏开场 封面，并完善了所有的汉化图案
+- 感谢书法专家小火车，重新绘制了游戏开场封面，并完善了所有的汉化图案
 - 感谢 Jerome、cm 通过反汇编成功完成游戏菜单栏的所有汉化工作
 - 感谢 Aus、卓卓、菜菜、斯普、谷维陌实现 TIM 和 BMP 格式的相互转换
 - 感谢泡泡实现了 TIM 预览程序，方便我们预览最终汉化的效果
 - 感谢汉化组的所有成员，一起校对文本、推敲译文，并完成了最终的测试工作
 
 没有枪没有炮，我们给自己造
-hush 实现了游戏文本的批量提取、翻译，使得大家能够快速的参与到校对工作中
-Aus、卓卓、菜菜、斯普、谷维陌实现了 TIM 和 BMP 格式的相互转换，让我们能够精细化的调整游戏文本
-泡泡实现了 TIM 预览程序，让我们能够方便的预览翻译后的文本效果
-hush、世终、Pie 实现了 TMD 模型解析，并重新设计了 MIX TMD 的文件格式，让 CG 的汉化变得高效
+
+- hush 实现了游戏文本的批量提取、翻译，使得大家能够快速的参与到校对工作中
+- Aus、卓卓、菜菜、斯普、谷维陌实现了 TIM 和 BMP 格式的相互转换，让我们能够精细化的调整游戏文本
+- 泡泡实现了 TIM 预览程序，让我们能够方便的预览翻译后的文本效果
+- hush、世终、Pie 实现了 TMD 模型解析，并重新设计了 MIX TMD 的文件格式，让 CG 的汉化变得高效
+
 
 我们这个小组的成员都是来自天南地北的程序员，大家都是在业余时间为汉化工作出力，每个人都希望参与进来做这件有意思的事情
 
+
 这次用 github 仓库发布，是希望能够后续有一个统一的更新的地方，也想着能在这里继续分享一些汉化中遇到的问题和解决方法
+
 
 最后，我们终于做出来了这个作品，希望大家能够游玩愉快，如有问题欢迎提 issue 指正，也期待大家的反馈
