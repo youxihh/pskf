@@ -16,7 +16,7 @@ https://github.com/youxihh/pskf/releases
 
 ## 汉化组成员 (程序、美工、翻译都是大家一起做的)
 
-11 Aaron Aus H.K Pie Yao bobo cm dami es geit hush jerome maze myy noah nanrui sans steak xc xiang xuan 炳 gw 芦 世终 东斌 伯恩 冷眸 卓卓 反派 反物 吉光 土块 斯普 木木 泉水 泡泡 清沉 菜菜 陆压 卖咸鱼 小火车 谷维陌 酸菜鱼 一个橘子 欧阳深蹲
+11 Aaron Aus H.K Pie Yao bobo cm dami es geit hush jerome maze myy noah nanrui P.E sans steak xc xiang xuan 炳 gw 芦 世终 东斌 伯恩 冷眸 卓卓 反派 反物 吉光 土块 斯普 木木 泉水 泡泡 清沉 菜菜 陆压 卖咸鱼 小火车 谷维陌 酸菜鱼 一个橘子 欧阳深蹲
 
 ## 汉化说明
 
